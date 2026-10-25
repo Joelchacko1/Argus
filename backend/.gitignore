@@ -1,0 +1,15 @@
+
+# Private credentials
+backend/.env
+
+# Python
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/argus.db
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/.env*
+!frontend/.env.example
